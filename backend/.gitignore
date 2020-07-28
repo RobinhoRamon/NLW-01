@@ -1,0 +1,10 @@
+/node_modules
+*.sqlite
+src/uploads/*
+!src/uploads/baterias.svg
+!src/uploads/eletronicos.svg
+!src/uploads/lampadas.svg
+!src/uploads/oleo.svg
+!src/uploads/organicos.svg
+!src/uploads/papeis-papelao.svg
+
